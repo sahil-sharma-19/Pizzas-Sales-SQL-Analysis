@@ -78,7 +78,7 @@ Veggie – 11649 pizzas
 Answer:
 Orders peak between 12 PM and 1 PM, with the highest activity at 6 PM.
 
-9. Join relevant tables to find the category-wise distribution of pizzas.
+8. Join relevant tables to find the category-wise distribution of pizzas.
     
 Answer:
 The menu’s pizza types per category are:
@@ -96,7 +96,7 @@ Supreme – 9 types
 Answer:
 On average, 138 pizzas are ordered per day.
 
-11. Determine the top 3 most ordered pizza types based on revenue.
+10. Determine the top 3 most ordered pizza types based on revenue.
     
 Answer:
 Top 3 pizzas by revenue:
