@@ -100,6 +100,7 @@ On average, 138 pizzas are ordered per day.
     
 Answer:
 Top 3 pizzas by revenue:
+
 Chicken-The Thai Chicken Pizza-$43434.25
 
 Chicken-The Barbecue Chicken Pizza-$42768
