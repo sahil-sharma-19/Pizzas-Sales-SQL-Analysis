@@ -126,6 +126,7 @@ Veggie-The Mexicana Pizza- $26780.75
 Veggie-The Five Cheese Pizza- $26066.5
 
 11. Calculate the percentage contribution of each pizza type to total revenue.
+    
 Answer:
 
 Classic-26.91%
