@@ -138,10 +138,11 @@ Veggie-23.68%
 
 
 12. Analyze the cumulative revenue generated over time.
+    
 Answer:
 Cumulative revenue shows steady growth through the year, with noticeable spikes in June, September, and December.
 
-13. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+14. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 Answer:
 
 The Thai Chicken Pizza- $43434.25
