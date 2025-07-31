@@ -9,3 +9,18 @@ SQL (Structured Query Language): For querying, aggregating, and analyzing the da
 The dataset contains pizza sales transactions from a restaurant, including order details, pizza types, prices, sizes, categories, timestamps, and quantities sold.
 
 Source: [Public dataset, Kaggle]
+
+## Features and Highlights
+Retrieves overall order and sales statistics (order count, total revenue)
+
+Identifies top/bottom pizzas by sales, revenue, and order quantity
+
+Analyzes pizza sales by category (Chicken, Veggie, Supreme, Classic, etc.)
+
+Tracks sales trends over time (hourly, daily, monthly distributions)
+
+Highlights best-selling pizza sizes and types
+
+Calculates each pizza’s share of total revenue and overall performance
+
+Provides actionable insights for menu optimization and sales strategy
