@@ -4,3 +4,8 @@ This project delivers an in-depth analysis of pizza restaurant sales using SQL q
 SQL (Structured Query Language): For querying, aggregating, and analyzing the dataset.
 
  MySQL is the DBMS used for the queries.
+ 
+## Data Source Information
+The dataset contains pizza sales transactions from a restaurant, including order details, pizza types, prices, sizes, categories, timestamps, and quantities sold.
+
+Source: [Public dataset, Kaggle]
