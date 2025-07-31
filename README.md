@@ -26,22 +26,27 @@ Calculates each pizza’s share of total revenue and overall performance
 Provides actionable insights for menu optimization and sales strategy.
 ## Insights
 1. Retrieve the total number of orders placed.
+
 Answer:
 A total of 21350 orders were placed during the analyzed period.
 
-2. Calculate the total revenue generated from pizza sales.
+3. Calculate the total revenue generated from pizza sales.
+   
 Answer:
 The total revenue generated from pizza sales is $817,860.
 
-3. Identify the highest-priced pizza.
+5. Identify the highest-priced pizza.
+   
 Answer:
 The highest-priced pizza is The Greek Pizza at $35.95.
 
-4. Identify the most common pizza size ordered.
+7. Identify the most common pizza size ordered.
+   
 Answer:
 The most commonly ordered pizza size is Large i.e. 18526 orders.
 
-5. List the top 5 most ordered pizza types along with their quantities.
+9. List the top 5 most ordered pizza types along with their quantities.
+    
 Answer:
 The top 5 most ordered pizza types by quantity are:
 
