@@ -3,4 +3,4 @@ This project delivers an in-depth analysis of pizza restaurant sales using SQL q
 ## Key Technologies Used
 SQL (Structured Query Language): For querying, aggregating, and analyzing the dataset.
 
- MySQL is the DBMS you used for your queries.
+ MySQL is the DBMS used for the queries.
