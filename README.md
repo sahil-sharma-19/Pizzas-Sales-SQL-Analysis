@@ -101,27 +101,51 @@ On average, 138 pizzas are ordered per day.
 Answer:
 Top 3 pizzas by revenue:
 
-Chicken-The Thai Chicken Pizza-$43434.25
+Chicken-The Thai Chicken Pizza- $43434.25
 
-Chicken-The Barbecue Chicken Pizza-$42768
+Chicken-The Barbecue Chicken Pizza- $42768
 
-Chicken-The California Chicken Pizza-$41409.5
+Chicken-The California Chicken Pizza- $41409.5
 
-Classic-The Classic Deluxe Pizza-$38180.5
+Classic-The Classic Deluxe Pizza- $38180.5
 
-Classic-The Hawaiian Pizza-$32273.25
+Classic-The Hawaiian Pizza- $32273.25
 
-Classic-The Pepperoni Pizza-$30161.75
+Classic-The Pepperoni Pizza- $30161.75
 
-Supreme-The Spicy Italian Pizza-$34831.25
+Supreme-The Spicy Italian Pizza- $34831.25
 
-Supreme-The Italian Supreme Pizza-$33476.75
+Supreme-The Italian Supreme Pizza- $33476.75
 
-Supreme-The Sicilian Pizza-$30940.5
+Supreme-The Sicilian Pizza- $30940.5
 
-Veggie-The Four Cheese Pizza-$32265.7
+Veggie-The Four Cheese Pizza- $32265.7
 
-Veggie-The Mexicana Pizza-$26780.75
+Veggie-The Mexicana Pizza- $26780.75
 
-Veggie-The Five Cheese Pizza-$26066.5
+Veggie-The Five Cheese Pizza- $26066.5
 
+11. Calculate the percentage contribution of each pizza type to total revenue.
+Answer:
+
+Classic-26.91%
+
+Supreme-25.46%
+
+Chicken-23.96%
+
+Veggie-23.68%
+
+
+12. Analyze the cumulative revenue generated over time.
+Answer:
+Cumulative revenue shows steady growth through the year, with noticeable spikes in June, September, and December.
+
+13. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+Answer:
+
+The Thai Chicken Pizza- $43434.25
+
+The Barbecue Chicken Pizza- $42768
+
+The California Chicken Pizza- $41409.5
