@@ -30,22 +30,22 @@ Provides actionable insights for menu optimization and sales strategy.
 Answer:
 A total of 21350 orders were placed during the analyzed period.
 
-3. Calculate the total revenue generated from pizza sales.
+2. Calculate the total revenue generated from pizza sales.
    
 Answer:
 The total revenue generated from pizza sales is $817,860.
 
-5. Identify the highest-priced pizza.
+3. Identify the highest-priced pizza.
    
 Answer:
 The highest-priced pizza is The Greek Pizza at $35.95.
 
-7. Identify the most common pizza size ordered.
+4. Identify the most common pizza size ordered.
    
 Answer:
 The most commonly ordered pizza size is Large i.e. 18526 orders.
 
-9. List the top 5 most ordered pizza types along with their quantities.
+5. List the top 5 most ordered pizza types along with their quantities.
     
 Answer:
 The top 5 most ordered pizza types by quantity are:
@@ -60,6 +60,67 @@ The Pepperoni Pizza - 2418 orders
 
 The Thai Chicken Pizza - 2371 orders
 
-Hawaiian – 200 orders
+6. Join the necessary tables to find the total quantity of each pizza category ordered.
+   
+Answer:
+Order quantities by pizza category:
 
-Thai Chicken – 180 orders
+Chicken – 11050 pizzas
+
+Classic – 14888 pizzas
+
+Supreme – 11987 pizzas
+
+Veggie – 11649 pizzas
+
+7. Determine the distribution of orders by hour of the day.
+   
+Answer:
+Orders peak between 12 PM and 1 PM, with the highest activity at 6 PM.
+
+9. Join relevant tables to find the category-wise distribution of pizzas.
+    
+Answer:
+The menu’s pizza types per category are:
+
+Chicken – 6 types
+
+Classic – 8 types
+
+Veggie – 9 types
+
+Supreme – 9 types
+
+9. Group the orders by date and calculate the average number of pizzas ordered per day.
+    
+Answer:
+On average, 138 pizzas are ordered per day.
+
+11. Determine the top 3 most ordered pizza types based on revenue.
+    
+Answer:
+Top 3 pizzas by revenue:
+Chicken-The Thai Chicken Pizza-$43434.25
+
+Chicken-The Barbecue Chicken Pizza-$42768
+
+Chicken-The California Chicken Pizza-$41409.5
+
+Classic-The Classic Deluxe Pizza-$38180.5
+
+Classic-The Hawaiian Pizza-$32273.25
+
+Classic-The Pepperoni Pizza-$30161.75
+
+Supreme-The Spicy Italian Pizza-$34831.25
+
+Supreme-The Italian Supreme Pizza-$33476.75
+
+Supreme-The Sicilian Pizza-$30940.5
+
+Veggie-The Four Cheese Pizza-$32265.7
+
+Veggie-The Mexicana Pizza-$26780.75
+
+Veggie-The Five Cheese Pizza-$26066.5
+
