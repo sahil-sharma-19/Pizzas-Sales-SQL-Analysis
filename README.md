@@ -10,7 +10,7 @@ The dataset contains pizza sales transactions from a restaurant, including order
 
 Source: [Public dataset, Kaggle]
 
-## Features and Highlights
+##  Highlights
 Retrieves overall order and sales statistics (order count, total revenue)
 
 Identifies top/bottom pizzas by sales, revenue, and order quantity
