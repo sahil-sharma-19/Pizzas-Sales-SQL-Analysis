@@ -144,6 +144,7 @@ Answer:
 Cumulative revenue shows steady growth through the year, with noticeable spikes in June, September, and December.
 
 14. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+    
 Answer:
 
 The Thai Chicken Pizza- $43434.25
